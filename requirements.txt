@@ -1,0 +1,14 @@
+# OSINT Footprint & Entity Investigation Engine
+click>=8.1.7
+requests>=2.31.0
+dnspython>=2.4.2
+python-whois>=0.9.4
+networkx>=3.2
+matplotlib>=3.8.0
+pyvis>=0.3.2
+Jinja2>=3.1.2
+reportlab>=4.0.9
+pytest>=7.4.0
+pytest-cov>=4.1.0
+responses>=0.25.0
+urllib3>=2.0.0
